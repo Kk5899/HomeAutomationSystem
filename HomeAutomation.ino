@@ -12,9 +12,9 @@ int pushButton2State = HIGH;
 
 int wifiFlag = 0;
 
-#define AUTH "aHBGnD1trZzLgNMzNKjVYFGVp26mPecM"                 // You should get Auth Token in the Blynk App.  
-#define WIFI_SSID "MAC wala MC"             //Enter Wifi Name
-#define WIFI_PASS "dharamshala"         //Enter wifi Password
+#define AUTH "Authentication code"                 // You should get Auth Token in the Blynk App.  
+#define WIFI_SSID "WIfi name/Ssid"             //Enter Wifi Name
+#define WIFI_PASS "Wifipassword"         //Enter wifi Password
 
 #define RELAY_PIN_1      26   //D26
 #define RELAY_PIN_2      27   //D27
